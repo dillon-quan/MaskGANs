@@ -1,3 +1,3 @@
-### MaskGANs
+### Tweet Sentiment Extraction
 
-This project is a collaboration between Dillon Quan and Shrikar Thodla to train a MaskGans model to genereate text. This project was inspired by this [paper](https://arxiv.org/abs/1801.07736). The goal of this project is to train this model to develop an understanding on GANs, GANs for text, and how to further our Pytorch knowledge.
+This project is a collaboration between Dillon Quan and Shrikar Thodla to participate in a Tweet Sentiment Extraction Kaggle competition. This kaggle competition seeks to find the words in the sentence that determines the sentiment of the tweet. For more information, refer to the link to the competition [here](https://www.kaggle.com/c/tweet-sentiment-extraction/overview)
